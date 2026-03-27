@@ -1,1 +1,1 @@
-# big-data
+# Finance Research RAG platform
